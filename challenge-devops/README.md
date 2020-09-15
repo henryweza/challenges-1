@@ -1,5 +1,7 @@
 How to Setup and run a code
 =======
+## PLZ Remove a fork repo out of git hub
+
 1. Update a code in to Git or every where you store code
 
 2. clone to the local to build a docker image if you edit a image please Edit in Dockerfile
